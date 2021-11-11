@@ -1,2 +1,2 @@
 # Inteligencia_Artificial_Senai
-Repositório para colocar materiais e Códigos relacionados a matéria
+Repositório para armazenar códigos feitos nas aulas da matéria sobre Inteligência Artificial
